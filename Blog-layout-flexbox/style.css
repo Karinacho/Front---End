@@ -1,0 +1,40 @@
+body{
+    padding: 5rem;
+    
+}
+section{
+    display:flex;
+}
+main{
+width:70%;    
+}
+aside{
+    margin-left: 5rem;
+}
+p.title{
+    font-weight: bold;
+font-size: 3rem;
+}
+hr{
+    margin: 14px;
+    height: 1px;
+    background: black;
+}
+img {
+    margin: 1rem;
+}
+#floatLeft{
+float: right;
+}
+blockquote{
+    float:right;
+    width: 40%;
+}
+#floatRight{
+    float: left;
+    margin-top: 0.3em;
+}
+a{
+    text-decoration: none;
+    color:green;
+}
