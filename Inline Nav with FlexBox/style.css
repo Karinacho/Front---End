@@ -1,0 +1,33 @@
+html{
+    font-family: 'Helvetica', sans-serif;
+}
+body{
+    padding: 5em;
+}
+header{
+    display:flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
+p.title{
+    font-size: 3rem;
+    padding-bottom: 0.1em;
+    font-weight: bold;
+}
+
+ nav ul{
+    display:flex;
+}
+nav li{
+    list-style-type: none;
+    padding: 0 1rem;
+    
+}
+nav a{
+    text-decoration: none;
+    color: green;
+}
+h1{
+    font-family: Georgia, sans-serif;
+    
+}
